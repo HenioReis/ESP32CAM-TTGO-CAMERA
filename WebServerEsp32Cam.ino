@@ -1,3 +1,9 @@
+/*
+Autor: Hênio reis
+Proj: Servedor web com esp32cam e ttgo camera 
+Ano: 15/01/2020
+*/
+
 #include <WiFi.h>
 #include "Esp32CamNew.h"
 //#include "SSD1306.h"
